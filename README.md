@@ -7,5 +7,6 @@ A tool for finding main pages written with Python.
 * Windows 10
 * Ubuntu 19.10
 # Install
-git https://github.com/Nounless/Super_Req_Tool.git
+```bash
+git https://github.com/Nounless/Super_Req_Tool.git/
 cd Super_Req_Tool
