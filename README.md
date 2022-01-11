@@ -8,7 +8,7 @@ A tool for finding main pages written with Python.
 * Ubuntu 19.10
 # Install
 ```bash
-git https://github.com/Nounless/Super_Req_Tool.git/
+git clone https://github.com/Nounless/Super_Req_Tool.git/
 cd Super_Req_Tool
 pip3 install -r requirements.txt
 python3 Super_req_tool.py
