@@ -10,3 +10,5 @@ A tool for finding main pages written with Python.
 ```bash
 git https://github.com/Nounless/Super_Req_Tool.git/
 cd Super_Req_Tool
+pip3 install -r requirements.txt
+python3
